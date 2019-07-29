@@ -8,7 +8,6 @@ Vue.config.productionTip = false
 new Vue({
   el: '#cellDiv',
   router,
-  // components: { Cell },
-  // template: '<Cell/>'
-  render: h => h(Cell)
+  components: { Cell },
+  template: '<Cell/>'
 })
