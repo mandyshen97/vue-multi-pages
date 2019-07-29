@@ -45,7 +45,7 @@ vue init webpack my-project
 
 - 创建后默认是一个`vue`单页面应用，在默认结构的基础上将目录结构改为如下形式。其中`pages`目录下的`cell`和`home`就是多页面应用中的两个页面。
 
-![目录结构](.\static\imgs\目录结构.png)
+![目录结构](./static/imgs/目录结构.png)
 
 
 ### 下面修改配置
