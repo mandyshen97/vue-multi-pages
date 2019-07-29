@@ -594,9 +594,9 @@ npm start
 
 - `home`页面（页面1）：
 
-![home页面](.\static\imgs\home页面.png)
+![home页面](./static/imgs/home页面.png)
 
 - `cell`页面（页面2）：
 
-![cell页面](.\static\imgs\cell页面.png)
+![cell页面](./static/imgs/cell页面.png)
 
